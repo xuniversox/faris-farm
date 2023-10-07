@@ -1,0 +1,5 @@
+Animal = Animal System
+Lander = TileSet System
+FarmLand = Stage System
+Game = Cartridge
+Main = Entry Point

@@ -1,0 +1,21 @@
+body {
+
+  background-color: rgb(53, 34, 43);
+}
+
+#canvas {
+  image-rendering: pixelated;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0;
+  margin: auto;
+  display: block;
+  width: 640px;
+  height: 480px;
+  background-color: rgb(117, 66, 96);
+  border: 2px solid black;
+
+}

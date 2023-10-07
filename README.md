@@ -1,2 +1,0 @@
-# faris-farm
-farm simulator
